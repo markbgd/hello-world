@@ -40,3 +40,12 @@ h1{
 h3{
    color: darkslategray;
 }
+
+
+.heroImage{
+    background-image: url('images/plane.jpg');
+    height: 200px;
+    background-position: 50% 26%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
