@@ -1,17 +1,42 @@
-		nav{
-			background-color: lightgray;
-			padding: 20px;
-		}
+body{
+    font-family: sans-serif;
+}
 
-		ul {
-			list-style-type: none;
-			margin: 0;
-			padding: 0;
-			width: 100%;
-			text-align: center;
-		}
+nav{
+    background-color: #717171;
+    padding: 20px;
+}
 
-		ul,li{
-			display: inline-block;
-			padding-right: 10px;
-		}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+ul,li{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: deepskyblue;
+}
+
+p{
+    color: #717171;
+}
+
+h1{
+   color: deepskyblue;
+}
+
+h3{
+   color: darkslategray;
+}
