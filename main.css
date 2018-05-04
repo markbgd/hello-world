@@ -1,0 +1,17 @@
+		nav{
+			background-color: lightgray;
+			padding: 20px;
+		}
+
+		ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			text-align: center;
+		}
+
+		ul,li{
+			display: inline-block;
+			padding-right: 10px;
+		}
