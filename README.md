@@ -1,7 +1,3 @@
 # hello-world
 
-Well hello there...
-
-I like pizza!I alos like other things.
-
-Byyyyyyy
+Sample files for testing Brackets Git integration for Mac OSX
